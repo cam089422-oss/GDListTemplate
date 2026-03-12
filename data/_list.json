@@ -1,5 +1,15 @@
 [
-    "SampleLevel1",
-    "SAMPLELEVEL2",
-    "Sample_Level_3"
+    {
+        "name": "GRIEF",
+        "author": "Icedcave",
+        "id": ,
+        "vids": [
+            {
+                "user": "Doggie",
+                "link": "https://www.youtube.com/watch?v=R9S_F_fS6_M",
+                "percent": 100,
+                "hz": "240Hz"
+            }
+        ]
+    }
 ]
